@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="counter">
+	<schema id="com.github.fkinoshita.Counter" path="/com/github/fkinoshita/Counter/">
+	</schema>
+</schemalist>

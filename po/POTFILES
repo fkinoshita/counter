@@ -1,0 +1,6 @@
+data/com.github.fkinoshita.Counter.desktop.in
+data/com.github.fkinoshita.Counter.appdata.xml.in
+data/com.github.fkinoshita.Counter.gschema.xml
+src/main.c
+src/counter-window.c
+src/counter-window.ui
